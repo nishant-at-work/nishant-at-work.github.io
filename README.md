@@ -1,2 +1,1 @@
-# nishant-website
-Repo for personal website based on the Hugo Academic template
+Personal website of Nishant Singh
