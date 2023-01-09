@@ -6,7 +6,7 @@ description: Nishant is a doctoral candidate at Indian Institute of Technology (
 
 image_left: true
 images:
-- img/nishant.jpg
+- img/nishant_avatar.jpg
 show_action_link: true
 show_social_links: true
 subtitle: A trained civil engineer often wondering about the missing civility in his engineering training   
