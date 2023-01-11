@@ -1,9 +1,9 @@
-baseURL = "https://nishant-at-work.github.io/off"
+baseURL = "https://nishant-at-work.github.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
 author = "Alison Hill"
-copyright = "" # set to override the auto generated copyright using org info and now year
+copyright = "&#127279- all wrongs reversed" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
@@ -30,8 +30,8 @@ enableEmoji = true
 [params]
   orgName = "nishant"
 # orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/1.jpg"
+  description = "Built with Hugo"
+  favicon = "/img/n.jpg"
   logo = "/img/icon.png"
   mainSections = ["project", "blog", "talk"]
   navallcaps = false
@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "Work Sans"
+  customheadingFontFamily = "Work Sans"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
+    repo_name = "nishant-at-work/nishant-at-work.github.io"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
@@ -86,8 +86,6 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-  
-  [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "/docs/resume.pdf"  
@@ -96,13 +94,17 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "mailto:nishaant@proton.me"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/surkh_syah"
-  [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.co.uk/citations?user=-Y6_q6oAAAAJ"
+   [[params.social]]
+      icon      = "researchgate" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://www.researchgate.net/profile/Nishant-Singh-36"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://orcid.org/0000-0002-8203-9616"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -112,9 +114,13 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/nishant-singh-307141257/"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-8203-9616"
+      icon      = "goodreads" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.goodreads.com/user/show/10663965-nishant"
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/surkh_syah"
       
 
 [taxonomies]

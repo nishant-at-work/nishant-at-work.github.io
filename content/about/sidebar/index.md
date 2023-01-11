@@ -5,7 +5,7 @@ role: "Doctoral Candidate <br />
 @ IIT Delhi"
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How Naseer sa'ab would say my name" # leave blank to exclude
+audio_link_label: "How to say my name (or at least how Naseer sa'ab would say it)" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Mobility as Commons
