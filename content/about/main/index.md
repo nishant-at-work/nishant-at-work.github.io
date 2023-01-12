@@ -3,7 +3,7 @@
 title: Brief Bio # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
   Nishant is a doctoral candidate at Indian Institute of Technology (IIT) Delhi. His thesis, which he will be submitting this semester, focuses on conceptual and analytical advancement of how we understand injustices in urban mobilities.<br><br> 
