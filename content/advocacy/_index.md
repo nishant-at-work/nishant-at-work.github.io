@@ -6,10 +6,6 @@ cascade:
   show_author_byline: false
   show_comments: false
   show_post_date: false
-  sidebar:
-    show_sidebar_adunit: true
-    text_link_label: View all projects
-    text_link_url: /project/
 description: Nothing much significant here, just some fooling around, collective day-dreaming and some other naiveties.
 layout: list-sidebar
 show_author_byline: false

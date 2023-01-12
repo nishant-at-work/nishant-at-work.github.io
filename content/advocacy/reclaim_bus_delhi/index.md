@@ -1,5 +1,5 @@
 ---
-date: "2019-07-02"
+date: "2023-01-09"
 draft: false
 excerpt: I co-created and led this campaign for Free, Safe, and Reliable Bus-based Public Transport in Delhi. The campaign curated voices from the bus user community to strengthen the support for the public bus transport in Delhi which meets the mobility needs of millions of people daily. 
 layout: single-sidebar
@@ -10,7 +10,7 @@ show_post_thumbnail: true
 sidebar:
   #author: The R Markdown Team @RStudio
   description: "I co-created and led this campaign for Free, Safe, and Reliable Bus-based Public Transport in Delhi. The campaign curated voices from the bus user community to strengthen the support for the public bus transport in Delhi which meets the mobility needs of millions of people daily."
-  show_sidebar_adunit: true
+  show_sidebar_adunit: false
   title: Reclaiming The Bus
   
 thumbnail_left: false
@@ -19,7 +19,10 @@ links:
   icon_pack: fas
   name: website
   url: https://sumnet.in/delhi-bus-campaign/
-
+- icon: twitter
+  icon_pack: fab
+  name: twitter
+  url: https://twitter.com/BusYatriUnion
 subtitle: "A Campaign for Free, Safe and Reliable Public Bus Transport in Delhi"
 tags:
 - urban mobility
@@ -32,7 +35,8 @@ tags:
 title: Reclaiming The Bus
 ---
 
-{{< figure src="/images/computer.png" title="Retro Machine" >}}
+{{< figure src="featured-hex2.jpeg" title="Reclaiming The Bus | Delhi Bus Yatri Union" >}}
+
 Commitments to address the global climate crisis, ambient air pollution and noise pollution seem meaningless as urban transport planning in Delhi continues to be dominated by the development of harmful and exclusionary infrastructure such as flyovers and road widening projects which only provide for the demands of automobile users, encourage toxic emissions, and lower the quality of urban life for one and all.
 
 In Delhi, the buses operated by DTC, DIMTS, and private operators carry about 5 million passengers every day. According to the latest available data from the Census of India (2011), more than 25 percent of work trips in Delhi is bus-based while more than one-third of trips are non-motorized. However, over the last few weeks, cars and motorized two-wheelers have already begun to regain their control over road space. With the bus transport services running at half of their capacity, people who are strictly dependent on buses are facing extreme difficulties in accessing essentials. This has exposed the urban mobility divide created by a transport system that focuses on rapid vehicular mobility rather than ensuring accessibility for all. It seems as if those having access to the personal automobile have the right to be mobile while others without access to the personal vehicle do not. If the measures to ensure equal access to mobility is not put in place, this divide will only grow sharper with COVID-related lockdown restrictions being eased.
@@ -61,8 +65,8 @@ To ensure equitable access to safe urban mobility during and after the pandemic,
 
 - Despite the shortcomings and hardships, commuters love the bus. Urgent improvements are needed to bring down the waiting time. Provide separate bus lanes for a more seamless movement of buses. Set up an official channel for communicating with bus users as equal stakeholders in the planning and running of buses.
 
-Please read our public statement and the full list of demands here: https://www.sumnet.in/wp-content/uploads/2020/06/Public-Statement-Reclaim-The-Bus-in-Delhi_English.pdf
+[Please find here our public statement and the full list of demands](https://www.sumnet.in/wp-content/uploads/2020/06/Public-Statement-Reclaim-The-Bus-in-Delhi_English.pdf)
 
-The statement and list of demands along with the endorsements will be shared with elected representatives and officials. Please endorse the statement by filling this form. 
+The statement and the list of demands along with the endorsements were shared with the elected representatives in Delhi Government and officials in relevant government departments. 
 
 If you wish to become a member of the Delhi Bus Users Union, please visit: https://forms.gle/wz6VHYoNCPUED2K9A
