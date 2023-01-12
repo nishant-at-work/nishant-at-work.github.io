@@ -1,9 +1,5 @@
 ---
 author:
-categories:
-- Theme Features
-- R
-- package
 date: "2019-07-01"
 draft: false
 excerpt: I contributed in multiple capacities to this two-year long participatory public consultation project that delivered a draft for state-level cycle rickshaw bill and filled the knowledge gap that previously crippled policy actions on the subject.

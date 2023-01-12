@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Built with Hugo"
   favicon = "/img/n.jpg"
   logo = "/img/icon.png"
-  mainSections = ["project", "blog", "talk", "advocacy", "CV"]
+  mainSections = ["project", "blog", "talk"]
   navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -158,7 +158,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/docs/CV_nishant.pdf"
+    url = "/docs/cv_nishant.pdf"
     weight = 60  
     
   # Configure footer  
