@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Built with Hugo"
   favicon = "/img/n.jpg"
   logo = "/img/icon.png"
-  mainSections = ["project", "blog", "talk"]
+  mainSections = ['research', 'media', 'advocacy','blog']
   navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
