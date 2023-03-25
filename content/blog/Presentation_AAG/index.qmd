@@ -1,0 +1,214 @@
+---
+title: "Justice without rethinking planning?"
+subtitle: "An appraisal of frameworks of Transport Justice and its critical formulations"
+author: 
+    name: Nishant
+    affiliation: Dept. of Civil Engineering, Indian Institute of Technology (IIT) Delhi
+    email: nishaant@proton.me | nishant@civil.iitd.ac.in 
+
+format: 
+    revealjs:
+        smaller: true
+        scrollable: true
+        slide-number: true
+        progress: true
+        theme: night
+editor: visual
+bibliography: "Data/PhDlib.bib"
+---
+
+## A Late Awakening
+
+-   Attention to Justice (and closely related concepts- equity and fairness) sporadic since the late 80s [@Hay1993d; @Trinder1991b; @Vasconcellos2001]
+
+-   Recent rediscovery [@gossling2016; @Martens2012c; @Pereira2016c; @Verlinghieri2020; @Lucas2016]
+
+-   Despite a wider acknowledgement of the notion that transportation should aim to 'move people, not vehicles' [@MinistryofUrbanTransport2006]..
+
+-   .. transport planning remains based on hastily adopted methodologies centring the priorities of privileged road users modelled as predominantly affluent, able-bodied men in car-centric urban societies
+
+## Brief review of (limitations in) literature
+
+-   Scope limited to the usage of the phrase 'transport(ation) justice'
+
+-   Even the systematic reviews [@Markovich2011; @Pereira2016c] have shown unintentional ignorance towards studies where discussion of transport justice is implicit (for ex., in Indian context, @Baviskar2011a, @Gopakumar2015, @Mohan2003, @Tiwari1999 )
+
+-   Privileging the issues in distribution over the characterisation of socio-political underpinnings and ethical-moral considerations
+
+## Objective
+
+-   Developing a broader conceptual framework through discussing
+
+    -   historic and inherent injustices in transport planning methodologies and processes
+
+    -   apolitical nature and insufficiency of alternative planning approaches such as sustainable transport paradigm and capability approaches
+
+    -   critical theoretical approach to transportation justice as a necessary complementary lens
+
+    and describing:
+
+-   a Relational-Radical Approach: based on the assemblage of relevant works in critical theory and feminist geography, particularly the works of Doreen Massey and Iris Marion Young
+
+## A matter of definitions: Contentions
+
+-   Mainly distributive justice concerning the principles and end states of allocating accessibility-related benefits and disadvantages across different population groups [@Martens2012c]
+
+-   @Pereira2016c argues for "more complete understanding of accessibility as a human capability" for a holistic account of justice in transport; no single, complete definition of justice
+
+-   What about procedural justice?
+
+-   Is accessibility *always* positive, or what is this ***value*** that is being distributed? (related discussion in @Davidson2021 and @Pucci2021 )
+
+## A Matter of Definitions: Partial Resolution
+
+-   Diagnosis:
+
+    -   Non-comparability of effects of different elements in the aggregation-based justice analysis, and
+
+    -   Insufficiency of a distributive approach to what is a multiscale, multidimensional and structural problem
+
+    -   aggregation (and subsequent abstraction) another form of epistemic injustice
+
+-   Moving beyond **mere adjustments** to incorporate justice concerns in project planning
+
+-   Bringing analytical focus on those power relations within the boundaries of transport planning which generate *suffering*
+
+## Injustice: Inherent and Implied
+
+-   Deeply influenced by traffic engineering; uncommon for transport studies to explicitly acknowledge the relational power position of researchers in the social-political context of their research
+
+-   Dominant epistemology of transport studies has been positivism and therefore the pretence of objectivity and value-neutrality have gone largely uncontested and unaddressed; apparent in recent calls for community-based and action research [@Lucas2013d]
+
+-   Import of car-centric planning methodologies as a package of ready-to-use tools has also entailed the wholesale import of value concepts from affluent imperial societies [@MashhadiMoghadam2019; @Vasconcellos1997a; @Wood2020a]
+
+-   Renewed risk from socially hostile technology in the form of smart urban mobility initiatives supported by most third-world governments, which eulogize the employment of big data and IT in solving all sorts of urban problems through centralised, *panopticon-like* governance [@Kitchin2014]
+
+## Disguised politics and its translation into injustices
+
+-   Implications of a professional class of technocrats and experts having an absolute control over how people ought to and can move in a city: not only distributive, but epistemic, epistemological and ontological too
+
+-   @Kebowski2017: neoclassical, sustainability, and political economic approaches to transport planning
+
+-   The peculiar case of 'travel as derived demand'
+
+-   Individual choices and preferences form the basis of planning for transport provisions, **BUT** stated choice decisions are constrained, pre-set and imposed by a certain group of planning and political elite through their "imaginary rationality" [@FlyvbjergB.Richardson2002] in a manner that [@Harvey1996a] has called 'a power-laden act of domination' [@Graham1999]
+
+## Theoretically grounding transport justice
+
+-   In response to the attention drawn to the need for 'theoretically grounded understanding' [@Pereira2016c]
+
+-   Do we even have an 'urban transport planning theory', (because most of it is theory-free 'applied' studies; e.g. discussion in @Koglin2014 on dominance of prescriptive research on bicycling)
+
+-   Research as 'problem solving' resulting into bulk of policy prescriptions without an adequate philosophical compass to make sense of how a transport system evolved and examining transport planners' contribution to attached social processes
+
+-   Becomes even more surprising in the light of the sustained parallel growth of literature on *mobilities* anda strong push for "mobilities turn" in social sciences [@Sheller2006a; @Sheller2016b]
+
+## Theoretically grounding transport justice in Global South
+
+-   'Applied research' without theoretical underpinnings is a probable reason why historically city transport planners have continued to make plans only to overcome the lack of "success" of their preceding plans [@Flyvbjerg2002a; @Mohan2007; @Roy2013; @Vasconcellos2017] without understanding, rethinking or altering the guiding framework
+
+-   Recent noticeable calls [@Schwanen2020; @Wood2020a] for decolonising and decentring the transport studies
+
+-   Yet, transport research in the Global South only enables growth-led urban development and remains preoccupied with the same old 'predict-and-provide' thinking based on neoclassical utilitarian framework that
+
+    -   de-politicizes structural problems, and
+
+    -   shoves down techno-managerial sustainability fixes [@Kebowski2017; @Reigner2019 ]
+
+## Capabilities Approach to Mobility
+
+-   Overcoming the ontological irrelevance of utilitarian and Rawlsian approaches and relaxing the assumptions about people and their well-being by aiming at context-specific determination of *values* rather than value-agnostic assessment of preferences
+
+-   Choice-making as social action performed by social actors in their various social roles and its normative aim is to extend the degree of freedom one has in making those choices, socially influenced as they might be [@Sen2006c]
+
+-   Focus of measurement shifts from possession of resources ("means") to the degree ("conversion factors") to which people can use those means to freely choose from the actually available options ("capabilities") *to do (or, to be)* what they value ("functioning")
+
+## Whether Mobility conceptualised as Capability is helpful
+
+-   So, is mobility a capability?
+
+-   'Accessibility as capability' [@Vecchio2021] plays a direct role in securing the entitlement to various capabilities such as participation in labour market, and being able to find time for leisure,
+
+-   **But** some other capabilities such as sound mental health and dignity of life are also indirectly associated with possibilities of physical movements
+
+-   Another debate on whether a basic capability or a combined capability [@Pereira2016c]
+
+-   Better conceptualised as a conversion factor? (on slightly different grounds in @Randal2020) but CA is certainly helpful
+
+## However..
+
+-   Normative approach suits the requirements of project management and policy rescriptions but cannot sufficiently explain the latent interactions of socio-political forces shaping mobilities (also in @Kremakova2013)
+
+-   Individualisation has been either uncritically accepted (as in @Pereira2016c ) or has been casually glossed over in transport research centred around CA [@Vecchio2021]
+
+-   Underestimation of the structural-ness of inequalities can be serious
+
+    -   With improved individual capability, a person finds life more worthwhile
+
+    -   But, increased access to opportunities does not mean that the hierarchies of mobilities are broken, weakened or rearranged in a more just manner
+
+-   Institutionalized inequalities such as automobile subsidies in forms of parking lots, flyovers and other ways of extending to them cheap access to public resources, privatisation of public transport services- all of these cannot be expected to be revealed by simple operationalisation of CA
+
+## Introducing Relational Approach
+
+-   Certain groupings with genuine social meaning have hierarchical relationship around availability and appropriation of transport resources
+
+-   Even the basic characteristics of a traffic system such as modal use categories themselves are formed, or 'structured', under the influence of social identities and determined by a myriad of factors such as built environment which are themselves embedded in social relations [@Knox1982a; @Harvey1993b]
+
+    -   gendered nature of household and care work [@Doherty2021; @Kwan2000] and the fear of crimes on street and in public transport [@Viswanath2007; @Ding2020] directly produces gendered spaces in "culturally specific" ways [@Hsu2010]
+
+-   Thus, a theory of justice presupposes a socially determined set of values, norms and practices
+
+## Specifying Relational Approach
+
+-   "can the concept of exploitation be broadened to include other ways in which labour and energy expenditure of one group benefits another, and reproduces a relation of domination between them?" [@Young1990a]
+
+    -   Looking more closely for the processes specific to transport which contribute in reproducing relations of gendered domination
+
+-   Favouring a relational ontology of mobility, **Mobility Relations** can be defined as the interaction or product of social and spatial relations spread over different scales of time
+
+    -   One person's mobility impacts and is impacted by mobilities of all other persons in the system
+
+    -   Allows for seeing mobility as power which, in Foucauldian sense, is an arrangement of relationships rather than an abstract resource that can be possessed in varying amounts by different social groups
+
+    -   Accommodates mechanisms that can potentially reveal legitimized inequalities and the subtle ways of everyday subversions in the presence of power asymmetry
+
+## Specifying Relational Approach
+
+.
+
+**Access-centric transport justice research**
+
+-   analyses the differences in the individual accessibilities as a given,
+
+    .
+
+**Relational approach**
+
+-   frames the travel pattern as an outcome of interaction -
+
+-   between various institutional rules directing mobility decisions
+
+    -   mechanisms of control over public narratives,
+
+    -   social formation of identities,
+
+    -   culturally mediated routine travel activities
+
+    -   rigidly hierarchical governance schematics of urban transport systems
+
+## Conclusion
+
+-   Critical and decolonial perspectives in urban transport remain marginalised; research that self-identifies as thus mostly originating in the Global North
+
+-   Rejecting the value-neutrality of transport planning and instead employ a framework centring the structure of ***mobility relations*** which are themselves contingent on situational context and history, and not devoid of them
+
+-   Producing 'critical science' which clearly describes the values that the underlying assumptions subscribe to and takes a clear, political position against domination within transport system and acts against mythologies [@Mohan2008] and misconceptions
+
+-   Including epistemological justice within the agenda of transport justice:
+
+    -   researchers pay more attention to how they perform their research and whether they enact a transition to justice through that
+
+    -   researchers being involved in and conducting research for intensifying real-world action [@Chatterton2010; @Dreze2002]
+
+## References
