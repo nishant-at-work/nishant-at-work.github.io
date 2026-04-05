@@ -1,19 +1,19 @@
 ---
-action_label: More About Me &rarr;
-action_link: /about
+action_label: See my work &rarr;
+action_link: /work
 action_type: text
-description: Nishant is a doctoral candidate at Indian Institute of Technology (IIT) Delhi. His thesis, which he will be submitting this semester, focuses on conceptual and analytical advancement of how we understand injustices in urban mobilities. His research interests range widely and include, besides the issues of transportation planning, the potentials of democratising and localising urban governance in Southern contexts and commonising cities through radical transformational practices such as urban agriculture.
-
+description: |
+  Independent research consultant working at the intersections of transport justice, road safety, and urban inequality. His doctoral research at IIT Delhi developed new conceptual and analytical frameworks, grounded in the Capability Approach and critical theory, for understanding injustices in everyday urban mobility.
 image_left: true
 images:
 - img/nishant_avatar.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A trained civil engineer often wondering about the missing civility in his engineering training   
+subtitle: Transport justice researcher and independent consultant
 text_align_left: false
-title: nishant
+title: Nishant Singh
 type: home
 ---
 
-\*\* index doesn't contain a body, just front matter above. See
-index.html in the layouts folder \*\*
+** index doesn't contain a body, just front matter above. See
+index.html in the layouts folder **
