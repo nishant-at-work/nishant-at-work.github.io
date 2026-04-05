@@ -18,4 +18,4 @@ links:
 
 Co-authored with G. Tiwari, R. Goel, G. Agrawal, and K. Bhalla at the Transportation Research and Injury Prevention Centre (TRIP-C), IIT Delhi.
 
-This report provides a comprehensive assessment of road safety in India, contributing to WHO's *Regional Status Report on Road Safety in WHO South-East Asia Region*. The work was carried out during Nishant's tenure as Project Scientist at TRIP-C (2023--24).
+This report provides a comprehensive assessment of road safety in India, contributing to WHO's *Regional Status Report on Road Safety in WHO South-East Asia Region*. The work was carried out during my tenure as Project Scientist at TRIP-C (2023--24).

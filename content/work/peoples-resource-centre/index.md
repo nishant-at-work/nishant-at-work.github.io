@@ -15,6 +15,6 @@ links:
   url: https://www.prcindia.in
 ---
 
-People's Resource Centre was a knowledge initiative co-founded by Nishant to support social transformation in Indian cities. From 2018 to 2021, PRC built a research and evidence-based advocacy programme spanning urban mobility, urban agriculture, urban rivers and riverfronts, democratising urban local governance, and climate justice.
+People's Resource Centre was a knowledge initiative I co-founded to support social transformation in Indian cities. From 2018 to 2021, PRC built a research and evidence-based advocacy programme spanning urban mobility, urban agriculture, urban rivers and riverfronts, democratising urban local governance, and climate justice.
 
 The initiative engaged media, policymakers, scholars, civil society organisations, and citizens through conferences, publications, and public consultations, including the national conferences *Farming The City* (2020, 2021) and seminars on democratising urban governance.

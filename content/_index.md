@@ -3,7 +3,7 @@ action_label: See my work &rarr;
 action_link: /work
 action_type: text
 description: |
-  Independent research consultant working at the intersections of transport justice, road safety, and urban inequality. His doctoral research at IIT Delhi developed new conceptual and analytical frameworks, grounded in the Capability Approach and critical theory, for understanding injustices in everyday urban mobility.
+  I am an independent research consultant working at the intersections of transport justice, road safety, and urban inequality. My doctoral research at IIT Delhi developed new conceptual and analytical frameworks, grounded in the Capability Approach and critical theory, for understanding injustices in everyday urban mobility.
 image_left: true
 images:
 - img/nishant_avatar.jpg
