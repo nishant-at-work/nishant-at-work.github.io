@@ -16,7 +16,7 @@ links:
   url: https://www.greenpeace.org/static/planet4-india-stateless/2024/10/c293ab29-riding-the-justice-route-1-compressed.pdf
 - icon: podcast
   icon_pack: fas
-  name: Greenpeace Podcast
+  name: SystemShift Podcast (S3E2)
   url: https://www.greenpeace.org/aotearoa/podcast/podcast-buses-are-free-for-women-in-delhi-what-can-the-world-learn-from-it/
 ---
 

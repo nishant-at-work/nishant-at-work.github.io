@@ -8,11 +8,6 @@ categories:
 tags:
   - Metro Rail
   - Urban Policy
-links:
-- icon: book-open
-  icon_pack: fas
-  name: People's Resource Centre
-  url: https://www.prcindia.in
 ---
 
 Co-authored with Rajendra Ravi. Published by People's Resource Centre, Delhi, 2019.

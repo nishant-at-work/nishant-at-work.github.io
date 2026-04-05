@@ -6,15 +6,17 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  I work between academic research and civic action. I think keeping a foot in both is the point.
+  I am Head of Research at [Youth Ki Awaaz](https://trend.youthkiawaaz.com), where I lead the TREND Unit, a cultural research programme working with young Indians. We run civic polls, analyse citizen discourse, and publish research on active citizenship, data protection, and public opinion. Before taking on this role, I was a Senior Research Consultant at YKA from early 2024.
 
-  My research looks at how urban transport systems produce and reproduce inequality. My PhD at IIT Delhi ([*New Bearings on Justice in Urban Mobility*](/work/phd-thesis/), 2024) used the Capability Approach and critical theory to understand injustices in everyday urban mobility. I have worked on road safety with the WHO, published on fare-free bus travel and gender in *The India Forum* and *Ideas for India*, and contributed to policy reports with Greenpeace India on public transport in Delhi, Mumbai, and Bengaluru.
+  My PhD is from IIT Delhi (2024). The thesis, [*New Bearings on Justice in Urban Mobility*](/work/phd-thesis/), looked at how everyday mobility in cities is shaped by structural inequality, using the Capability Approach and critical theory. A case study of North-West Delhi.
 
-  I also build civic research and collective action. I head the [TREND Unit](https://trend.youthkiawaaz.com) at Youth Ki Awaaz, a cultural research programme that uses polls, citizen discourse analysis, and narrative work to help young Indians make sense of their time. I coordinate the [Public Transport Forum](https://ptf.neocities.org), a citizen collective advocating for free, safe, and inclusive public transport across Indian cities. Earlier, I built and led the research programme at People's Resource Centre (2018-2021), working on urban mobility, agriculture, rivers, and democratic governance.
+  I have worked on road safety at the TRIP Centre (IIT Delhi) with the WHO, published on fare-free bus travel for women in *The India Forum* and *Ideas for India*, and contributed to reports with Greenpeace India on public transport in Delhi, Mumbai, and Bengaluru. My research has been covered in *The Indian Express*, *Hindustan Times*, *The Wire*, *Down to Earth*, *Mongabay India*, and I was interviewed for the *SystemShift* podcast.
 
-  My research interests include the politics of transport planning, road safety, urban inequality, and mixed methods. I am a member of Sustainable Urban Mobility Network (SUM Net) India and Teachers Against Climate Crisis (TACC).
+  I coordinate the [Public Transport Forum](https://ptf.neocities.org), a citizen collective that works on bus transport policy, fare-free travel, and gendered accessibility in Indian cities. Earlier, I built and led the research programme at People's Resource Centre (2018-2021), covering urban mobility, agriculture, rivers, and local governance.
 
-  I hold a B.Tech.-M.Tech. dual degree from IIT Kanpur, where my master's thesis examined [school trip mode choice behaviour](https://www.sciencedirect.com/science/article/abs/pii/S0966692317303277/) in Kanpur city.
+  My current research interests are survey methods, public opinion research, active citizenship, inequality, youth, ethics in emerging tech, and gender and social justice.
+
+  I hold a B.Tech.-M.Tech. dual degree from IIT Kanpur (2015, 2016).
 show_outro: false
 outro: ""
 ---

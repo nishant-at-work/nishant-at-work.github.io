@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Nishant Singh. Independent research consultant working on transport justice, road safety, and urban inequality.
+  Nishant Singh. Head of Research at Youth Ki Awaaz. PhD, IIT Delhi.
 show_header: true
 sidebar_left: false
 title: About
