@@ -1,1 +1,25 @@
-// Override this file to add your own SCSS styling.
+// Custom refinements for nishant-at-work.github.io
+
+// Better link distinction: subtle underline on body links
+.post-body a,
+.intro a,
+.single-main a {
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 0, 0, 0.2);
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.2s ease;
+
+  &:hover {
+    text-decoration-color: rgba(0, 0, 0, 0.6);
+  }
+}
+
+// Slightly tighter letter-spacing on headings for EB Garamond
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+// Warmer horizontal rules
+hr {
+  border-color: #D8D6D2;
+}

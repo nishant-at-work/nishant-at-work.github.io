@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  Nishant Singh. Independent research consultant working on transport justice, road safety, and urban inequality.
 show_header: true
 sidebar_left: false
 title: About
