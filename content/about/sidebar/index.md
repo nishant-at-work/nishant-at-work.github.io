@@ -11,10 +11,10 @@ link_list:
   url: https://plato.stanford.edu/entries/capability-approach/
 - name: Mobility Justice
   url: https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/tran.12287
+- name: TREND @ YKA
+  url: https://trend.youthkiawaaz.com
 - name: Public Transport Forum
-  url: https://publictransportforum.in/
-- name: Urban Agriculture
-  url: https://grist.org/article/food-the-history-of-urban-agriculture-should-inspire-its-future/
+  url: https://ptf.neocities.org
 ---
 
 ** index doesn't contain a body, just front matter above. See

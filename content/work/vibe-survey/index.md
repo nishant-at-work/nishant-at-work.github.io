@@ -18,4 +18,4 @@ links:
 
 Published by Centre for Public Insights, 2025.
 
-The VIBE survey is the first national-level study in India examining active citizenship among youth --- how young people engage with civic life, democratic institutions, and social issues across the country.
+The VIBE survey is the first national-level study in India examining active citizenship among youth --- how young people engage with civic life, democratic institutions, and social issues across the country. This was produced as part of my work with the [TREND Unit](/work/trend-unit/) at Youth Ki Awaaz.
