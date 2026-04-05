@@ -1,18 +1,18 @@
 ---
 title: "A Free Ticket Can Be a Ticket to Freedom"
-excerpt: "How Delhi's fare-free bus travel scheme for women has transformed mobility, independence, and access. And what it reveals about public transport as a tool for gender justice."
-date: 2025-03-03
+excerpt: "What Delhi's free bus travel scheme has meant for women's mobility, independence, and daily life."
+date: 2025-02-01
 categories:
-  - Public Transport
-  - Gender
+  - Article
 tags:
   - Delhi
-  - Pink Ticket
+  - Gender
+  - Public Transport
 links:
 - icon: link
   icon_pack: fas
-  name: Read at The India Forum
+  name: The India Forum
   url: https://www.theindiaforum.in/forum/free-ticket-can-be-ticket-freedom
 ---
 
-Co-authored with Archana Singh. Published in *The India Forum*, March 2025.
+With Archana Singh. Published in *The India Forum*, February 2025.

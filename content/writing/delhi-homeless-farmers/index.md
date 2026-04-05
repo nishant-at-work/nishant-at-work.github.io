@@ -1,16 +1,16 @@
 ---
 title: "Work Satisfaction for Delhi's 'Homeless' Farmers"
-excerpt: "On the invisible yet vital role of urban agriculture in Delhi, and the farmers who sustain it despite being rendered 'homeless' by planning authorities."
+excerpt: "On the farmers who grow food in Delhi and what it means that the city refuses to see them."
 date: 2022-01-27
 categories:
-  - Urban Agriculture
+  - Article
 tags:
   - Delhi
-  - Farming
+  - Urban Agriculture
 links:
 - icon: link
   icon_pack: fas
-  name: Read at Vikalp Sangam
+  name: Vikalp Sangam
   url: https://vfrsindia.org/
 ---
 

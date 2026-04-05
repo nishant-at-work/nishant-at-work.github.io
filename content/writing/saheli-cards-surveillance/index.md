@@ -1,18 +1,17 @@
 ---
 title: "Saheli Cards and Surveillance in Public Welfare"
-excerpt: "On the tension between digital welfare delivery and surveillance as Delhi moved from anonymous Pink Tickets to identity-linked Saheli Cards for women's free bus travel."
+excerpt: "Delhi replaced anonymous Pink Tickets with identity-linked Saheli Cards for women's free bus travel. What does that trade-off look like?"
 date: 2026-01-01
 categories:
-  - Public Transport
-  - Surveillance
+  - Article
 tags:
   - Delhi
   - Gender
-  - Digital Welfare
+  - Surveillance
 links:
 - icon: link
   icon_pack: fas
-  name: Read at The India Forum
+  name: The India Forum
   url: https://www.theindiaforum.in/
 ---
 
