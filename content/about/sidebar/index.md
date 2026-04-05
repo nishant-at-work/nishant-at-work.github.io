@@ -1,20 +1,20 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Nishant Singh"
-role: "PhD, Independent Research Consultant"
+role: "PhD, Independent Researcher"
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: "Currently" # bookmarks, elsewhere, etc.
 link_list:
-- name: Capability Approach
-  url: https://plato.stanford.edu/entries/capability-approach/
-- name: Mobility Justice
-  url: https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/tran.12287
-- name: TREND @ YKA
+- name: TREND @ Youth Ki Awaaz
   url: https://trend.youthkiawaaz.com
 - name: Public Transport Forum
   url: https://ptf.neocities.org
+- name: Mobility Justice
+  url: https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/tran.12287
+- name: Capability Approach
+  url: https://plato.stanford.edu/entries/capability-approach/
 ---
 
 ** index doesn't contain a body, just front matter above. See

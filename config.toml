@@ -28,7 +28,7 @@ enableEmoji = false
 
 [params]
   orgName = "Nishant Singh"
-  description = "Independent research consultant working on transport justice, road safety, and urban inequality."
+  description = "Researcher and civic practitioner working on transport justice, urban inequality, and public interest research."
   favicon = "/img/icon.png"
   logo = "/img/icon.png"
   mainSections = ["work", "writing"]
