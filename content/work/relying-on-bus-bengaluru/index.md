@@ -1,7 +1,7 @@
 ---
 title: "Relying on Bus"
 subtitle: "Studying the Impacts of Bengaluru's Bus Lane on Bus Use"
-excerpt: "Research examining how dedicated bus lanes in Bengaluru affected ridership and travel patterns, making the case for prioritising public transport infrastructure."
+excerpt: "Research on how dedicated bus lanes in Bengaluru affected ridership and travel patterns, making the case for prioritising public transport infrastructure."
 date: 2023-06-01
 categories:
   - Policy

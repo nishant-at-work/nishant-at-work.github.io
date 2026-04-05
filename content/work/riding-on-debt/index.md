@@ -1,7 +1,7 @@
 ---
 title: "Riding on Debt"
 subtitle: "Financial Analysis of Delhi Metro after Phase III"
-excerpt: "A financial analysis of Delhi Metro's operations and debt after Phase III, examining the sustainability of debt-driven urban transport megaprojects."
+excerpt: "A financial analysis of Delhi Metro's operations and debt after Phase III, and the sustainability of debt-driven urban transport megaprojects."
 date: 2018-06-01
 categories:
   - Research
@@ -18,4 +18,4 @@ links:
 
 Co-authored with Rajendra Ravi. Published by Centre For Financial Accountability, Delhi, 2018.
 
-This monograph provides a detailed financial analysis of Delhi Metro Rail Corporation after the completion of Phase III, examining the growing debt burden, revenue shortfalls, and implications for public resources. The analysis was widely cited in media coverage of metro rail expansion debates across Indian cities.
+This monograph analyses the finances of Delhi Metro Rail Corporation after Phase III. It looks at the growing debt burden, revenue shortfalls, and what this means for public resources. The analysis was widely cited in media coverage of metro rail expansion debates across Indian cities.

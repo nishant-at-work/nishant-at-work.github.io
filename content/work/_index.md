@@ -10,7 +10,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all work
     text_link_url: /work/
-description: Research, policy reports, and advocacy projects spanning transport justice, road safety, urban agriculture, and democratic governance.
+description: Research, policy reports, and advocacy projects on transport justice, road safety, urban agriculture, and democratic governance.
 layout: list-grid
 show_author_byline: false
 show_button_links: true

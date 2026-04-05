@@ -1,6 +1,6 @@
 ---
 title: "A Free Ticket Can Be a Ticket to Freedom"
-excerpt: "How Delhi's fare-free bus travel scheme for women has transformed mobility, independence, and access --- and what it reveals about the potential of public transport as a tool for gender justice."
+excerpt: "How Delhi's fare-free bus travel scheme for women has transformed mobility, independence, and access. And what it reveals about public transport as a tool for gender justice."
 date: 2025-03-03
 categories:
   - Public Transport
