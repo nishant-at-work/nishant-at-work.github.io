@@ -14,6 +14,10 @@ links:
   icon_pack: fas
   name: Report (PDF)
   url: https://www.greenpeace.org/static/planet4-india-stateless/2024/10/c293ab29-riding-the-justice-route-1-compressed.pdf
+- icon: podcast
+  icon_pack: fas
+  name: Greenpeace Podcast
+  url: https://www.greenpeace.org/aotearoa/podcast/podcast-buses-are-free-for-women-in-delhi-what-can-the-world-learn-from-it/
 ---
 
 Co-authored with Archana Singh. Published by Greenpeace India Society, Bengaluru, October 2024.

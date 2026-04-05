@@ -19,3 +19,5 @@ links:
 Published by Centre for Public Insights, 2025.
 
 The VIBE survey is the first national-level study in India on active citizenship among youth. It looks at how young people engage with civic life, democratic institutions, and social issues across the country. I produced this as part of my work with the [TREND Unit](/work/trend-unit/) at Youth Ki Awaaz.
+
+{{< figure src="vibelaunch_presenting.jpg" alt="Presenting VIBE survey findings at the launch event" >}}

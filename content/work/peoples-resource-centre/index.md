@@ -8,6 +8,11 @@ categories:
 tags:
   - Urban Commons
   - Delhi
+links:
+- icon: video
+  icon_pack: fas
+  name: Quint Hindi interview
+  url: https://www.youtube.com/watch?v=-K4CaKhDEsM
 ---
 
 Between 2018 and 2021, I built and led the research and advocacy programme at People's Resource Centre, a knowledge initiative working on social transformation in Indian cities. The programme covered urban mobility, urban agriculture, rivers and riverfronts, local governance, and climate justice.
