@@ -1,17 +1,18 @@
 ---
 title: "In Pedestrian-Heavy Patna, Crores are Being Invested in Road and Metro Projects Instead"
-excerpt: "On the mismatch between how people actually travel in Patna and where public money is being invested, and what it means for equitable urban transport."
+excerpt: "Most people in Patna walk. The money goes to roads and metro. What does that tell us?"
 date: 2021-08-01
 categories:
-  - Urban Transport
+  - Article
 tags:
   - Patna
   - Metro Rail
+  - Public Transport
 links:
 - icon: link
   icon_pack: fas
-  name: Read at The Bastion
+  name: The Bastion
   url: https://thebastion.co.in/politics-and/in-pedestrian-heavy-patna-crores-are-being-invested-in-road-and-metro-projects-instead/
 ---
 
-Co-authored with Debashree Chanda. Published in *The Bastion*, August 2021.
+With Debashree Chanda. Published in *The Bastion*, August 2021.

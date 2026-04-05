@@ -28,7 +28,7 @@ enableEmoji = false
 
 [params]
   orgName = "Nishant Singh"
-  description = "Researcher and civic practitioner working on transport justice, urban inequality, and public interest research."
+  description = "Head of Research at Youth Ki Awaaz. PhD, IIT Delhi. Public transport, inequality, youth, public opinion."
   favicon = "/img/icon.png"
   logo = "/img/icon.png"
   mainSections = ["work", "writing"]
@@ -79,11 +79,11 @@ enableEmoji = false
   [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "/docs/Nishant_CV_long.pdf"
+      url       = "/docs/Nishant_CV.pdf"
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "mailto:nishaant@proton.me"
+      url       = "mailto:nishant@youthkiawaaz.com"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
