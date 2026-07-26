@@ -1,14 +1,14 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Nishant Singh"
-role: "Head of Research, Youth Ki Awaaz"
+role: "Fellow, IIHS (deemed to be) University"
 avatar_shape: circle
 show_social_links: true
 audio_link_label: ""
 link_list_label: "Currently"
 link_list:
-- name: TREND Unit @ YKA
-  url: https://trend.youthkiawaaz.com
+- name: IIHS
+  url: https://iihs.co.in
 - name: Public Transport Forum
   url: https://ptf.neocities.org
 ---
