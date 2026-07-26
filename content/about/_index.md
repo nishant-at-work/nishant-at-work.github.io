@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Nishant Singh. Head of Research at Youth Ki Awaaz. PhD, IIT Delhi.
+  Nishant Singh. Fellow at IIHS (deemed to be) University. PhD, IIT Delhi.
 show_header: true
 sidebar_left: false
 title: About

@@ -28,7 +28,7 @@ enableEmoji = false
 
 [params]
   orgName = "Nishant Singh"
-  description = "Head of Research at Youth Ki Awaaz. PhD, IIT Delhi. Public transport, inequality, youth, public opinion."
+  description = "Fellow at IIHS (deemed to be) University. PhD, IIT Delhi. Public transport, inequality, youth, public opinion."
   favicon = "/img/icon.png"
   logo = "/img/icon.png"
   mainSections = ["work", "writing"]
@@ -83,7 +83,7 @@ enableEmoji = false
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "mailto:nishant@youthkiawaaz.com"
+      url       = "mailto:nishants.workmail@gmail.com"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
