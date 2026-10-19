@@ -3,6 +3,7 @@ title: "Riding on Debt"
 subtitle: "Financial Analysis of Delhi Metro after Phase III"
 excerpt: "A financial analysis of Delhi Metro's operations and debt after Phase III, and the sustainability of debt-driven urban transport megaprojects."
 date: 2018-06-01
+theme: finance-safety-justice
 categories:
   - Research
 tags:

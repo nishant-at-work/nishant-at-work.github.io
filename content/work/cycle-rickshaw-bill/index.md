@@ -3,6 +3,7 @@ title: "Draft Cycle Rickshaw Bill"
 subtitle: "Participatory legislation for Bihar and Jharkhand (2017-2019)"
 excerpt: "A two-year participatory research and advocacy effort that produced draft legislation to protect cycle rickshaw livelihoods and promote eco-friendly urban transport."
 date: 2017-06-01
+theme: public-transport
 categories:
   - Advocacy
 tags:

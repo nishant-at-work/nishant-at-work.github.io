@@ -3,6 +3,7 @@ title: "Riding the Justice Route"
 subtitle: "Assessing the Impact of Free Bus Travel on Gender-Just Public Transport in Delhi"
 excerpt: "A study of Delhi's Pink Ticket scheme. We surveyed over 500 women to assess the impact of fare-free bus travel on women's mobility, economic participation, and independence."
 date: 2024-10-01
+theme: public-transport
 categories:
   - Policy
 tags:

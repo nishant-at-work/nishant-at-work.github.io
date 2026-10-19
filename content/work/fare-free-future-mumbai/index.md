@@ -3,6 +3,7 @@ title: "Fare-free Future"
 subtitle: "Women's Perspectives on Public Bus Transport in Mumbai"
 excerpt: "Research on women's experiences with public bus transport in Mumbai, making the case for fare-free travel as a step towards gender-just urban mobility."
 date: 2024-09-01
+theme: public-transport
 categories:
   - Policy
 tags:

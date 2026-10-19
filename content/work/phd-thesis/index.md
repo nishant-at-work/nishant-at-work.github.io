@@ -3,6 +3,7 @@ title: "New Bearings on Justice in Urban Mobility"
 subtitle: "PhD Thesis, Indian Institute of Technology Delhi"
 excerpt: "Doctoral thesis using the Capability Approach and critical theory to evaluate injustices in everyday urban mobility, with a case study of North-West Delhi."
 date: 2024-06-01
+theme: finance-safety-justice
 categories:
   - Research
 tags:

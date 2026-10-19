@@ -1,8 +1,9 @@
 ---
 title: "People's Resource Centre"
-subtitle: "Research and advocacy programme (2018-2021)"
-excerpt: "Built and led a research and evidence-based advocacy programme on urban mobility, agriculture, rivers, and democratic governance in Indian cities."
+subtitle: "Research and advocacy programme co-founded and led (2018-2021)"
+excerpt: "Co-founded and led a research and evidence-based advocacy programme on urban mobility, agriculture, rivers, and democratic governance in Indian cities."
 date: 2018-06-01
+theme: programmes
 categories:
   - Advocacy
 tags:
@@ -15,6 +16,6 @@ links:
   url: https://www.youtube.com/watch?v=-K4CaKhDEsM
 ---
 
-Between 2018 and 2021, I built and led the research and advocacy programme at People's Resource Centre, a knowledge initiative working on social transformation in Indian cities. The programme covered urban mobility, urban agriculture, rivers and riverfronts, local governance, and climate justice.
+Between 2018 and 2021, I co-founded and led the research and advocacy programme at People's Resource Centre, a knowledge initiative working on social transformation in Indian cities. The programme covered urban mobility, urban agriculture, rivers and riverfronts, local governance, and climate justice.
 
 Through this work, I organised national conferences including *Farming The City* (2020, 2021), co-produced research reports, and brought together policymakers, scholars, civil society groups, and citizens for public consultations on urban policy.

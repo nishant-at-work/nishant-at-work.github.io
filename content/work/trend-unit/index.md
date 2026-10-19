@@ -3,6 +3,7 @@ title: "TREND Unit"
 subtitle: "Research, Evidence and Narrative Development at Youth Ki Awaaz"
 excerpt: "A cultural research programme that used polls, citizen discourse, and narrative work to understand young India. I led this as Head of Research at YKA."
 date: 2025-06-01
+theme: programmes
 categories:
   - Research
 tags:

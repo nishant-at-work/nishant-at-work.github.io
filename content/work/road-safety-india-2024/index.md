@@ -3,6 +3,7 @@ title: "India Status Report on Road Safety: 2024"
 subtitle: "TRIP Centre, IIT Delhi & World Health Organisation"
 excerpt: "National status report on road safety in India, contributing to WHO's regional road safety assessment for the South-East Asia Region."
 date: 2024-01-01
+theme: finance-safety-justice
 categories:
   - Research
   - Policy

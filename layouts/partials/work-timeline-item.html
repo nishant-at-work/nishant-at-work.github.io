@@ -1,0 +1,16 @@
+{{ $page := .page }}
+{{ $root := .root }}
+<article class="flex-ns items-start mb4 pb3 bb b--black-10">
+  <div class="w-100 w-10-ns pr3-ns">
+    <span class="f6 fw6 ttu tracked db mt1 o-60">{{ $page.Date.Format "2006" }}</span>
+  </div>
+  <div class="w-100 w-90-ns">
+    <h4 class="f4 fw5 lh-title mv0"><a href="{{ $page.RelPermalink }}">{{ $page.Title | markdownify }}</a></h4>
+    {{ with $page.Params.subtitle }}<p class="f6 i lh-copy mt1 mb1 o-80">{{ . | markdownify }}</p>{{ end }}
+    {{ $summary := cond (ne $page.Params.excerpt nil) $page.Params.excerpt $page.Summary }}
+    {{ with $summary }}<p class="f6 lh-copy mt1 mb2 measure-wide">{{ . | markdownify | emojify }}</p>{{ end }}
+    {{ if and $root.Params.show_button_links $page.Params.links }}
+      <p class="db mv1">{{ partial "shared/btn-links.html" $page }}</p>
+    {{ end }}
+  </div>
+</article>
