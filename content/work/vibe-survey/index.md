@@ -3,6 +3,7 @@ title: "VIBE: First National Survey on Active Citizenship Among Youth in India"
 subtitle: "Voices for Inclusion, Belonging, and Empowerment"
 excerpt: "India's first national survey on youth engagement with active citizenship. How young people participate in civic life and democratic processes."
 date: 2025-01-01
+theme: programmes
 categories:
   - Research
 tags:

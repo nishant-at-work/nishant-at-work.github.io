@@ -3,6 +3,7 @@ title: "Draft Cycle Rickshaw Bill"
 subtitle: "Participatory legislation for Bihar and Jharkhand (2017-2019)"
 excerpt: "A two-year participatory research and advocacy effort that produced draft legislation to protect cycle rickshaw livelihoods and promote eco-friendly urban transport."
 date: 2017-06-01
+theme: public-transport
 categories:
   - Advocacy
 tags:
@@ -19,3 +20,5 @@ links:
 Consulted with the Institute for Democracy and Sustainability, Delhi, on a two-year research and advocacy programme that resulted in two draft bills for urban transport in Bihar and Jharkhand.
 
 The process involved over 100 consultations across towns in both states with cycle rickshaw drivers, owners, mechanics, unions, government officials, and political representatives. The resulting *Draft Cycle Rickshaw (Protection of Livelihood, Promotion of Sustainable and Eco-friendly Mobility) Act* sought to secure livelihoods while promoting non-motorised transport.
+
+The study was released at a public event attended by the Mayor of Patna Municipal Corporation, the Transport Minister of Bihar, and Prof. Geetam Tiwari of IIT Delhi. Both the Mayor and the Transport Minister said the questions it raised about cycle rickshaws were new to them, and the Transport Minister invited citizen groups to prepare a policy draft — an opening that led to the [state-wide campaign of 2021](/work/bihar-pedestrian-policy/).

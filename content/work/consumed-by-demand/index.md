@@ -3,6 +3,7 @@ title: "Consumed By Demand"
 subtitle: "The Obsession with Metro Is Threatening Our Urban Resources"
 excerpt: "A monograph on the political economy of metro rail expansion in Indian cities and its impact on urban resources and public finances."
 date: 2019-01-01
+theme: finance-safety-justice
 categories:
   - Research
 tags:

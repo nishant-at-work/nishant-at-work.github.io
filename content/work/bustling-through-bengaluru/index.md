@@ -3,6 +3,7 @@ title: "Bustling Through Bengaluru"
 subtitle: "Asserting the Need for Sustainable Public Transport"
 excerpt: "A study of Bengaluru's public bus system, documenting user experiences and making the case for investing in sustainable, accessible public transport."
 date: 2022-06-01
+theme: public-transport
 categories:
   - Policy
 tags:
