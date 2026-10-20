@@ -1,15 +1,15 @@
 ---
-title: "Pedestrian Policy for Bihar"
-subtitle: "Making the case for walking in a state that walks"
-excerpt: "Policy and advocacy work on pedestrian infrastructure in Bihar, where most urban trips are made on foot while transport budgets go to roads and metro rail."
-date: 2021-08-01
+title: "People's Campaign for Cycle Rickshaw and Pedestrian Policy in Bihar"
+subtitle: "A year-long state-wide campaign to put two draft policies before the Bihar legislature (2021)"
+excerpt: "A state-wide campaign across Bihar for two citizen-drafted policies — one protecting cycle rickshaw livelihoods, one securing space for pedestrians — built through public consultation and taken to municipal bodies, MLAs and ministers."
+date: 2021-12-01
 theme: public-transport
 categories:
   - Advocacy
 tags:
   - Pedestrians
+  - Cycle Rickshaw
   - Bihar
-  - Public Transport
 links:
 - icon: link
   icon_pack: fas
@@ -17,10 +17,8 @@ links:
   url: https://www.sumnet.in/
 ---
 
-<!-- TODO (Nishant): confirm the years, the convening organisations, your specific role, whether
-     this produced a draft policy document or submission, and who it was submitted to. The text
-     below draws only on the Patna analysis already published. -->
+A year-long campaign across Bihar, run through SUM Net India and the Bihar Cycle Rickshaw Adhikar Manch, with a state campaign centre at Bodhgaya.
 
-Policy and advocacy work on walking as urban transport in Bihar, with the Sustainable Urban Mobility Network (SUM Net).
+The campaign carried two citizen-drafted policies. The cycle rickshaw policy grew out of [earlier participatory work on a draft bill](/work/cycle-rickshaw-bill/); the pedestrian policy was prepared by SUM Net partners in Patna and Bodhgaya. Both addressed the same absence — most urban trips in Bihar are made on foot or by cycle rickshaw, while transport budgets and road space go to motor vehicles.
 
-Most urban trips in Bihar are made on foot, yet pedestrian infrastructure receives a negligible share of transport spending, which flows instead to road widening and metro rail. The work built the evidence case for treating footpaths, crossings and pedestrian safety as primary transport infrastructure rather than residual streetscape, drawing on analysis of travel patterns in Patna published in [*The Bastion*](/writing/pedestrian-heavy-patna/).
+The year was structured as a sequence of constituencies rather than a single appeal: materials prepared in Hindi and English, then regional meetings of citizen groups and activists, then mayors and ward councillors, then sitting MLAs, then the urban development and transport departments, then political parties and trade unions, and finally the Chief Minister, Deputy Chief Minister, Transport Minister and Leader of the Opposition. Field visits across Bihar's cities gathered endorsements from rickshaw drivers, owners and users. The aim throughout was to have both drafts tabled for discussion in the state legislature.

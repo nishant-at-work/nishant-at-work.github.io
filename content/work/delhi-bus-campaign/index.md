@@ -1,8 +1,8 @@
 ---
-title: "Delhi Bus Campaign"
-subtitle: "Citizen campaigning for bus fleet expansion and service quality in Delhi"
-excerpt: "A sustained citizen campaign for a larger, better-run bus fleet in Delhi, pressing the case that buses — not metro rail — carry the majority of the city's public transport demand."
-date: 2022-06-01
+title: "Reclaiming the Bus"
+subtitle: "Campaign for free, safe and reliable bus-based public transport in Delhi (2020-2021)"
+excerpt: "A citizens' campaign for free, safe and reliable buses in Delhi that drafted a state bus policy, organised bus riders into a union, and put commuters at the centre of decisions about the service they depend on."
+date: 2021-09-01
 theme: public-transport
 categories:
   - Advocacy
@@ -13,18 +13,12 @@ tags:
 links:
 - icon: link
   icon_pack: fas
-  name: Public Transport Forum
-  url: https://ptf.neocities.org
-- icon: link
-  icon_pack: fas
   name: SUM Net India
   url: https://www.sumnet.in/
 ---
 
-<!-- TODO (Nishant): confirm the campaign years, the convening organisations, your specific role,
-     the main demands, and any outcomes or official responses worth naming. The text below is
-     deliberately general because those details are not in the repo or CV. -->
+A campaign for Bus-Based Public Transport (BBPT) in Delhi, run with the Sustainable Urban Mobility Network (SUM Net) India, the National Alliance of People's Movements and the Delhi Solidarity Group.
 
-Campaign work on Delhi's bus system, carried out with the Public Transport Forum and the Sustainable Urban Mobility Network (SUM Net).
+Buses carry most of Delhi's public transport demand on a fleet that has stayed far short of successive official targets, while capital spending has gone to metro rail. The campaign set out a concrete platform: free bus travel for all users, a combined DTC and DIMTS fleet of at least 12,000 universally accessible buses, land for depots and workshops written into the Master Plan of Delhi 2041, dedicated lanes on high-volume corridors, waiting times capped at two minutes on busy routes, and new routes reaching urban villages and the city's periphery. It also pressed for gender-sensitised crew, functional on-board cameras, lit and accessible bus stops, and — the thread running through all of it — recognition of commuters as core stakeholders with an institutional say in routes, frequencies and stop locations.
 
-Delhi's buses carry far more passengers than its metro, on a fleet that has stayed well short of successive official targets. The campaign argued for fleet expansion, better route coverage in the city's periphery, and service quality improvements as the fastest route to affordable and accessible mobility — set against the capital spending directed to metro rail expansion.
+Rather than lobbying alone, the campaign built a constituency. It convened roundtables and citizen dialogues, organised bus riders into the **Delhi Bus Yatri Union**, produced the film *Bus Ke Intezar Mein*, and drafted a state-level bus policy for the NCT of Delhi, released at a press meeting with a demand that the government adopt it.

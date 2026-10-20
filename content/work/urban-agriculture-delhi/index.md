@@ -1,19 +1,19 @@
 ---
-title: "Urban Agriculture in Delhi"
-subtitle: "Surveying farming inside the city, and the case for planning to recognise it"
-excerpt: "A multi-year study of farming within Delhi — who farms, on what land, under what tenure — and what it would take for city planning to recognise agriculture as a legitimate urban land use."
-date: 2022-03-01
+title: "Survey of Urban Agriculture in Delhi"
+subtitle: "Who farms in the city, on what land, and on what terms"
+excerpt: "A household survey of farming across urban and peri-urban Delhi — land holdings, tenure, income and assets — built to establish an evidence base where official statistics treat agriculture as a rural subject."
+date: 2022-06-01
 theme: urban-agriculture
 categories:
   - Research
 tags:
   - Urban Agriculture
   - Delhi
-  - Planning
+  - Survey
 ---
 
-A survey and research programme on agriculture practised within Delhi, carried out with A. Farooq.
+Designed and carried out with Aakiz Farooq.
 
-Cities are planned as though farming happens elsewhere. In Delhi it does not: land along the Yamuna floodplain and in the city's urban villages supports cultivation, grazing and fishing, largely outside any planning recognition and therefore without tenure security or public support. The work mapped who farms in the city, on what terms, and what they produce.
+The survey covered 186 households, 202 respondents, across 12 locations in urban and peri-urban Delhi, sampled purposively and interviewed in person. It recorded who farms, how much land they work and under what tenure, whether farming is their primary income, and what assets their households hold. Surveyed families averaged 5.7 members against a Delhi average of 4.9, and land holdings proved sharply unequal — a small number of very large holdings against a long tail of smallholders and tenant farmers.
 
-Findings were presented at [Urban ARC 2022](/writing/recognise-agriculture-in-city/) and at the International Seminar on Sustainable Urban Agricultural Systems in Thiruvananthapuram, and contributed to [*Sowing Sustainable Cities*](/writing/sowing-sustainable-cities/) (2023).
+The findings were presented at [Urban ARC 2022](/writing/recognise-agriculture-in-city/) and at the International Seminar on Sustainable Urban Agricultural Systems in Thiruvananthapuram, fed into the [draft citizen's policy](/work/urban-agriculture-policy-delhi/), and contributed to [*Sowing Sustainable Cities*](/writing/sowing-sustainable-cities/).
